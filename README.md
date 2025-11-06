@@ -44,3 +44,11 @@ Kumpulan latihan pemrograman **Dart** untuk memahami konsep **perulangan, pengol
 - Membiasakan diri dengan struktur logika dalam pengolahan data karyawan
 
 ---
+## 💬 Kesimpulan Pribadi
+
+Dalam pengerjaan proyek ini, saya belajar menggunakan GitHub untuk mengelola versi kode secara terstruktur.  
+Meskipun proyek ini dilakukan secara individu, penggunaan GitHub sangat membantu untuk menyimpan riwayat perubahan,  
+melakukan update dengan aman, dan memahami alur kerja pengembangan profesional.  
+Fitur seperti branch dan pull request tetap berguna untuk mensimulasikan kolaborasi tim,  
+sekaligus melatih disiplin dalam dokumentasi dan manajemen proyek.
+
