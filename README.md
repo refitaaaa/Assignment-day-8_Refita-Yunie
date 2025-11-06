@@ -44,9 +44,11 @@ Kumpulan latihan pemrograman **Dart** untuk memahami konsep **perulangan, pengol
 - Membiasakan diri dengan struktur logika dalam pengolahan data karyawan
 
 ---
-## 💬 Kesimpulan dan Pandangan
+## 💬 Kesimpulan Pribadi
 
-Selama proses membangun proyek menggunakan GitHub, saya belajar bagaimana pentingnya kolaborasi dan version control.  
-GitHub mempermudah pembagian tugas, pelacakan perubahan kode, dan menjaga agar tidak ada pekerjaan yang tertimpa.  
-Dengan fitur seperti branch, pull request, dan code review, setiap anggota tim dapat bekerja mandiri namun tetap terintegrasi dengan baik.  
-Proses ini juga membantu meningkatkan kedisiplinan dokumentasi serta keteraturan workflow pengembangan proyek.
+Dalam pengerjaan proyek ini, saya belajar menggunakan GitHub untuk mengelola versi kode secara terstruktur.  
+Meskipun proyek ini dilakukan secara individu, penggunaan GitHub sangat membantu untuk menyimpan riwayat perubahan,  
+melakukan update dengan aman, dan memahami alur kerja pengembangan profesional.  
+Fitur seperti branch dan pull request tetap berguna untuk mensimulasikan kolaborasi tim,  
+sekaligus melatih disiplin dalam dokumentasi dan manajemen proyek.
+
